@@ -41,6 +41,7 @@ public class ReverseString {
 			c[right] = temp;
 			left++;
 			right--;
+			// sumit pushed the code
 		}
 	}
 }
